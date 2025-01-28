@@ -1,6 +1,6 @@
 ## Hasan Ali Yücel Klasikler Dizisi 
 
-[<-- Geri Dön]()
+[<-- Geri Dön](/)
 
 ### ⭐ Quick, Quick!
 
