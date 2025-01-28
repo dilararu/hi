@@ -7,8 +7,10 @@
 
 *calışmadı mı?* **Grr!** Korsanlıkta çare tükenmez.. [alta bak](#alternatif-bağlantılar)
 
-
-
+<br>
+<br>
+<br>
+<br>
 
 ### Alternatif Bağlantılar
 
