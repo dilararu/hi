@@ -11,7 +11,8 @@
 [Hasan Ali Yücel Klasikler Dizisi](slash/sample-1.md)
 
 
-<hr>
+
+<!--  ESKİ
 
 ## Paylaşımlar
 
@@ -35,3 +36,5 @@
 - [Onedrive](https://1drv.ms/b/s!AvbNMdUq-oGBZmI0XStYOs084Y4?e=BCJAe5)
 
 - [Mega](https://mega.nz/file/QpBhRTYK#SQtJrsbAyIpQw_h-KZQpWHqoORP4qjTRVyqtSAvBVFQ)
+
+-->
