@@ -1,0 +1,28 @@
+## Yapı Kredi Yayınları
+
+[<-- Geri Dön](/#yayınlar)
+
+### ⭐ Quick, Quick!
+
+> [!TIP]
+> nbr, indir:
+> -  [Mega](https://disk.yandex.com.tr/d/8o74TZrwVb_rqw)**
+<!--  - EPUB: [Yandex Disk](https://disk.yandex.com.tr/d/SeHRrd_twABYOA) -->
+
+
+*link calışmadı mı?* tmm. [alta bak](#alternatif-bağlantılar)
+
+<br>
+<br>
+<br>
+<br>
+<hr>
+
+### Alternatif Bağlantılar
+1. [Telegram]()
+2. [Onedrive]()
+3. ~~[Gofile](/slash/dur/mal.md)~~
+4. ~~[Mediafire](/slash/dur/mal.md)~~
+5. ~~[Yandex Disk](/slash/dur/mal.md)~~
+<!-- 6. ~~[Telegram(lütfen son çare)](/slash/dur/mal.md)~~ -->
+
