@@ -15,6 +15,6 @@
 1. [Mega]()
 2. [Gofile]()
 3. [Mediafire]()
-4. ~~[Onedrive](/dur/mal.md)~~
-5. ~~[Telegram(lütfen son çare)](/dur/mal.md)~~
+4. ~~[Onedrive](/slash/dur/mal.md)~~
+5. ~~[Telegram(lütfen son çare)](/slash/dur/mal.md)~~
 
