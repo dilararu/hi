@@ -13,8 +13,8 @@
 ### Alternatif Bağlantılar
 
 1. [Mega]()
-2. [Google Drive]()
+2. [Gofile]()
 3. [Mediafire]()
-4. [Onedrive]()
-5. [Telegram(lütfen son çare)]()
+4. ~~[Onedrive](/dur/mal.md)~~
+5. ~~[Telegram(lütfen son çare)](/dur/mal.md)~~
 
