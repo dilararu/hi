@@ -1,6 +1,10 @@
 # Davay, davay!
-> [!NOTE] 
-> r/secilmiskitap'da gönderim silindiği için kalıcı tutmak amacıyla burada paylaşıyorum
+
+### Bütünlük
+> [!WARNING] 
+> Bağlantıların bazıları doğru çalışmıyor. (Düzenleme aşamasında)
+
+<hr>
 
 ### Hasan Ali Yücel Klasikleri Dizisi
 
