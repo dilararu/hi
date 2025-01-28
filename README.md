@@ -4,7 +4,7 @@
 
 *Neden bunu yaptım?* 
 
-Tbh buraya yazmak istemiyorum, yazı kirliliği olacak.. o yüzden [Detaylı önsöz](/slash/nbr/Dostoyevski_aynı_ben.md)
+Tbh buraya yazmak istemiyorum, yazı kirliliği olacak.. o yüzden [Detaylı önsöz](/slash/nbr/dostoyevski_ayni_ben.md)
 
 ## Bütünlük
 > [!WARNING] 
