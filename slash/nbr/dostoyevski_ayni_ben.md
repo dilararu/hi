@@ -11,4 +11,4 @@ bende farkediyorum bunlar bende var, atıyım iyilik olsun dedim ama sorun şu k
 
 > ![Ayb](/slash/nbr/selfieler/haneye_taciz_bu.png)
 
-Bu arada şuanki gördüğünüz gönderi eskiden böyle değildi. Baya çirkindi, reddit markdown şeylerini kullanmadım ilk başta. hatta linki olduğu gibi attım, insanlar tıklıyamıyordu bile..
+Bu gönderi eskiden böyle değildi, baya çirkindi. reddit markdown şeylerini kullanmadım ilk başta. hatta linki olduğu gibi attım, insanlar tıklıyamıyordu bile.. Sonrada düzenlendim tabi de iş işten geçmişti hemencecik Hater biri geldi ve lafları kullandı,
