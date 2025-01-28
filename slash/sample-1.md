@@ -3,7 +3,10 @@
 ### ⭐ Quick, Quick!
 
 > [!TIP]
-> nbr, indir: [Yandex Disk]() <br>
+> nbr, indir:
+> - **PDF: [Yandex Disk]()**
+> - EPUB: [Yandex Disk]()
+
 
 *calışmadı mı?* **Grr!** Korsanlıkta çare tükenmez.. [alta bak](#alternatif-bağlantılar)
 
