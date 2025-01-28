@@ -13,10 +13,6 @@
 
 *link calışmadı mı?* tmm. [alta bak](#alternatif-bağlantılar)
 
-<br>
-<br>
-<br>
-<br>
 <hr>
 
 ### Alternatif Bağlantılar
