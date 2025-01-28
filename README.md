@@ -1,5 +1,6 @@
 # Davay, davay!
-
+> [!IMPORTANT]
+> r/secilmiskitap'da gönderim silindiği için kalıcı tutmak için burada paylaşıyorum..
 
 ### Hasan Ali Yücel Klasikleri Dizisi
 
