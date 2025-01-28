@@ -19,10 +19,11 @@
 <hr>
 
 ### Alternatif Bağlantılar
+1. [Telegram](https://t.me/+VjZXa5tZu0QxZjY0)
+2. ~~[Mega](/slash/dur/mal.md)~~
+3. ~~[Gofile](/slash/dur/mal.md)~~
+4. ~~[Mediafire](/slash/dur/mal.md)~~
+5. ~~[Onedrive](/slash/dur/mal.md)~~
+6. ~~[Telegram(lütfen son çare)](/slash/dur/mal.md)~~
 
-1. [Mega]()
-2. [Gofile]()
-3. [Mediafire]()
-4. ~~[Onedrive](/slash/dur/mal.md)~~
-5. ~~[Telegram(lütfen son çare)](/slash/dur/mal.md)~~
 
