@@ -6,8 +6,8 @@
 
 > [!TIP]
 > nbr, indir:
-> - **PDF: [Yandex Disk]()**
-> - EPUB: [Yandex Disk]()
+> - **PDF: [Yandex Disk](https://disk.yandex.com.tr/d/8o74TZrwVb_rqw)**
+> - EPUB: [Yandex Disk](https://disk.yandex.com.tr/d/SeHRrd_twABYOA)
 
 
 *link calışmadı mı?* tmm. [alta bak](#alternatif-bağlantılar)
