@@ -18,7 +18,7 @@
 ### Alternatif Bağlantılar
 
 
-1. [Onedrive]()
+1. [Onedrive](https://1drv.ms/u/s!AvbNMdUq-oGBbTKDES7sywnn84o?e=mHqBSo)
 2. ~~[Gofile](/slash/dur/mal.md)~~
 3. ~~[Mediafire](/slash/dur/mal.md)~~
 4. ~~[Yandex Disk](/slash/dur/mal.md)~~
