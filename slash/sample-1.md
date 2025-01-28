@@ -10,7 +10,7 @@
 > - EPUB: [Yandex Disk]()
 
 
-*calışmadı mı?* **Grr!** Korsanlıkta çare tükenmez.. [alta bak](#alternatif-bağlantılar)
+*link calışmadı mı?* **Grr!** Korsanlıkta çare tükenmez.. [alta bak](#alternatif-bağlantılar)
 
 <br>
 <br>
