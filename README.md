@@ -1,5 +1,11 @@
 # Davay, davay!
 
+## Önsöz 
+
+*Neden bunu yaptım?* 
+
+Tbh buraya yazmak istemiyorum, yazı kirliliği olacak.. o yüzden [Detaylı önsöz](/slash/nbr/Dostoyevski_aynı_ben.md)
+
 ## Bütünlük
 > [!WARNING] 
 > Bağlantıların bazıları doğru çalışmıyor. (Düzenleme aşamasında)
