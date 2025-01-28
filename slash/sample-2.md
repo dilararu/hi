@@ -2,11 +2,12 @@
 
 [<-- Geri Dön](/#yayınlar)
 
-### ⭐ Quick, Quick!
+### ⭐ Davay, Davay!
 
 > [!TIP]
 > nbr, indir:
-> -  [Mega](https://disk.yandex.com.tr/d/8o74TZrwVb_rqw)**
+> - **[Mega](https://mega.nz/file/QpBhRTYK#SQtJrsbAyIpQw_h-KZQpWHqoORP4qjTRVyqtSAvBVFQ
+)**
 <!--  - EPUB: [Yandex Disk](https://disk.yandex.com.tr/d/SeHRrd_twABYOA) -->
 
 
@@ -19,10 +20,11 @@
 <hr>
 
 ### Alternatif Bağlantılar
-1. [Telegram]()
-2. [Onedrive]()
-3. ~~[Gofile](/slash/dur/mal.md)~~
-4. ~~[Mediafire](/slash/dur/mal.md)~~
-5. ~~[Yandex Disk](/slash/dur/mal.md)~~
-<!-- 6. ~~[Telegram(lütfen son çare)](/slash/dur/mal.md)~~ -->
+
+
+1. [Onedrive]()
+2. ~~[Gofile](/slash/dur/mal.md)~~
+3. ~~[Mediafire](/slash/dur/mal.md)~~
+4. ~~[Yandex Disk](/slash/dur/mal.md)~~
+5. [Telegram(lütfen son çare)]()
 
