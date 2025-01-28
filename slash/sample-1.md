@@ -5,7 +5,7 @@
 > [!TIP]
 > nbr, indir: [Yandex Disk]() <br>
 
-*calışmadı mı?* **Grr!** Korsanlıkta çare tükenmez.. [alta bak](###alternatif-bağlantılar)
+*calışmadı mı?* **Grr!** Korsanlıkta çare tükenmez.. [alta bak](#alternatif-bağlantılar)
 
 
 
