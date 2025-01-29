@@ -14,7 +14,7 @@ Tbh buraya yazmak istemiyorum, yazı kirliliği olacak.. o yüzden [Detaylı ön
 
 ## Yayınlar
 
-- ✨ [Dostoyevski](slash/buadamben.md)
+- ✨ *[Dostoyevski](slash/buadamben.md)*
   <br>
 - 🌟 [Hasan Ali Yücel Klasikler Dizisi](slash/sample-1.md)
 - ⭐ [İş Bankası Modern Klasikler Dizisi](slash/sample-3.md)
