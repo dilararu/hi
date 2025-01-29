@@ -12,12 +12,6 @@
 
 *link calışmadı mı?* tmm. [alta bak](#alternatif-bağlantılar)
 
-<br>
-<br>
-<br>
-<br>
-<hr>
-
 ### Alternatif Bağlantılar
 1. Mail.ru
    - [PDF](https://cloud.mail.ru/public/dCKC/unkvR5cEv)
