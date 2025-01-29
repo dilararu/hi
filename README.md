@@ -10,10 +10,11 @@ Tbh buraya yazmak istemiyorum, yazı kirliliği olacak.. o yüzden [Detaylı ön
 > [!WARNING] 
 > Bağlantıların bazıları doğru çalışmıyor. (Düzenleme aşamasında)
 
-<hr>
+
 
 ## Yayınlar
 
+- ✨ Dostoyevski
 - [Hasan Ali Yücel Klasikler Dizisi](slash/sample-1.md)
 - [İş Bankası Modern Klasikler Dizisi](slash/sample-3.md)
 - [Yapı Kredi Yayınları](slash/sample-2.md)
