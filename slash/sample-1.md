@@ -20,6 +20,6 @@
 3. ~~[Gofile](/slash/dur/mal.md)~~
 4. ~~[Mediafire](/slash/dur/mal.md)~~
 5. ~~[Onedrive](/slash/dur/mal.md)~~
-6. ~~[Telegram(lütfen son çare)](https://t.me/+VjZXa5tZu0QxZjY0)~~
+6. [Telegram(lütfen son çare)](https://t.me/+VjZXa5tZu0QxZjY0)
 
 
