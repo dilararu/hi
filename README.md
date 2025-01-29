@@ -14,7 +14,8 @@ Tbh buraya yazmak istemiyorum, yazı kirliliği olacak.. o yüzden [Detaylı ön
 
 ## Yayınlar
 
-- ✨ Dostoyevski
+- ✨ [Dostoyevski](slash/buadamben.md) *(Yayín değil, benim listem)*
+  <br>
 - [Hasan Ali Yücel Klasikler Dizisi](slash/sample-1.md)
 - [İş Bankası Modern Klasikler Dizisi](slash/sample-3.md)
 - [Yapı Kredi Yayınları](slash/sample-2.md)
