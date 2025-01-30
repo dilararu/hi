@@ -1,4 +1,6 @@
-# Davay, davay!
+<h1 align="center">
+Davay, davay!
+</h1>
 
 ## Önsöz 
 
