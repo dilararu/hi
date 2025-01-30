@@ -1,5 +1,5 @@
 <h1 align="center">
-Davay, davay!
+Davay, Davay!
 </h1>
 
 ## Önsöz 
